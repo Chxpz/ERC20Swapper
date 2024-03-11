@@ -1,0 +1,14 @@
+{
+  "name": "token-exchange",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@uniswap/v3-periphery": "^1.4.2",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.21.0"
+  }
+}
